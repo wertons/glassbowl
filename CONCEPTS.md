@@ -1,5 +1,6 @@
 
 
+
 # Concepts
 
 ## Brainstorming
@@ -88,7 +89,6 @@
 		 - PHP
 		 - No prior knowledge
 		 - Being a preprocessor slightly conflicts with the APP ideology
-/--- Half ---/
   - Laravel
 	 - Pros:
 		 - Scalable
@@ -97,43 +97,44 @@
 		 - Unit Testing
 	 - Cons:
 		 - Isn't easy to extend code and classes
-		 - Is new and doesn't has too many support
+		 - Doesn't have readily available support and resources
  - Hibernate ORM
 	 - Pros:
-		 - Creates automatically the database
-		 - Can control the relationships with annotations
-		 - Adds automatically the constraints to foreign keys
+		 - Automatically creates the database
+		 - Controls relationships with the use annotations
+		 - Automatically adds constraints to foreign keys
 	 - Cons:
-		 - Requires some configuration at startup
+		 - Requires some configuration on startup
  - JDBC Template
 	 - Pros:
-		 - Doesn’t require too much configuration
+		 - Does not require too much configuration
+		 - Very direct logic and queries
 	 - Cons:
-		 - Creation of the database manually
-		 - Doesn't support ManyToOne relationships
+		 - Requires the user to manually create the database
+		 - Does not support ManyToOne relationships
  - MySQL
 	 - Pros:
-		 - Could be usefull with ORM implementation
+		 - Easy to implement with a Java ORM
 		 - Most used DB
 	 - Cons:
-		 - ?
+		 - Is privately owned
  - MariaDB
 	 - Pros:
-		 - Could be useful with ORM implementation
-		 - Open Source
+		 - Requires the user to manually create the database
+		 - Open Source code
 	 - Cons:
-		 - ?
+		 - Not as supported as MySQL
  - Material Design
 	 - Pros:
 		 - Flexible
-		 - Support easy implementation of animations
+		 - Support an easy implementation of animations
 	 - Cons:
-		 - Strong affiliated with Google(?)
+		 - Strong affiliation with Google
  - Bootstrap
 	 - Pros:
-		 - Easy implementation of CSS with classes
+		 - Loads of support and documentation
 	 - Cons:
-		 - Design depends on classes from HTML
+		 - Very string typing
  - JWT Login
 	 - Pros:
 		 - Secured token for RestAPI
@@ -141,7 +142,6 @@
 		 - ?
  - Google Oauth Login
 	 - Pros:
-		 - Everyone uses Google accounts
 		 - Not hard to implement it
 	 - Cons:
 		 - ?
@@ -149,19 +149,19 @@
 	 - Pros:
 		 - ?
 	 - Cons:
-		 - ?
+		 - Is a new and un-supported technology
  - SPA PWA
 	 - Pros:
 		 - Updates automatically without the need of reloading the page
-		 - The client does the load(?)
+		 - The client does part of the load
 	 - Cons:
-		 - ?
+		 - Requires extra setup such as manifest and service workers
  - Docker Deploy
 	 - Pros:
 		 - Management of multiple images and containers
 		 - Communication between technologies with docker volumes
 	 - Cons:
-		 - ?
+		 - Requires work
  - Netlify
 	 - Pros:
 		 - Can host a github repository
@@ -176,7 +176,7 @@
 		 - Renew the HTTPS certificate
  - SEO
 	 - Pros:
-		 - Can get more clicks in the page
+		 - More trafic
 	 - Cons:
 		 - ?
  - Lighthouse
@@ -184,3 +184,5 @@
 		 - Get stats from optimization of the application
 	 - Cons:
 		 - ?
+
+
