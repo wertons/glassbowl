@@ -5,71 +5,91 @@
 ## Brainstorming
  - Light Front-End
 	 - Pros:
-		 - a
+		 - Better Score for SEO/Lighthouse
+		 - Easier Testing and Deploying
+		 - Better user experience ?
 	 - Cons:
-		 - b
- - League of Legends API
-	 - Pros:
-		 - a
-	 - Cons:
-		 - b
+		 - Puts constraints in the development process
+		 - Limits the amount of resources
  - Video Game API
 	 - Pros:
-		 - a
+		 - Already created API
+		 - Pre built information
 	 - Cons:
-		 - b
- - Educative App
+		 - 	 Related to specific company
+		 - Very narrow usage
+		 - Potential data ownership issues ?
+ - Education App
 	 - Pros:
-		 - a
+		 - Very field related
+		 - Aside from data needs, relatively simple
 	 - Cons:
-		 - b
+		 - Needs large amount of data
+		 - Potential need for neural data maps ?
  - Tracker App
 	 - Pros:
-		 - a
+		 - Systematic build
+		 - Easy to maintain and expand
 	 - Cons:
-		 - b
+		 - Very Narrow usage
+		 - Potential need for data 
  - Informative App
 	 - Pros:
-		 - a
+		 - Simple to build
+		 - Lightweight Front-End
 	 - Cons:
-		 - b
+		 - Needs large amount of data
+		 - Needs continuous management
  - Hosting an App
 	 - Pros:
-		 - a
+		 - Lightweight Front and Back end
 	 - Cons:
-		 - b
+		 - Needs a pre built and hosted app
  - E-Shop App
 	 - Pros:
-		 - a
+		 - Appealing concept, very practical demonstration
 	 - Cons:
-		 - b
+		 - Potential legal issues being associated to the school ?
+		 - Requires banking account association and resources to test
  - Neural Network 
 	 - Pros:
-		 - a
+		 - Potentially appealing concept
+		 - Modern idea
+		 - Data can be used in the future
 	 - Cons:
-		 - b
+		 - Needs implementation of another language, such as Python
+		 - Needs another server to  host the neural data
+		 - Data needs to be trainer
+		 - No prior knowledge
  - Quassar Front-End
 	 - Pros:
-		 - a
+		 - Pre-existing knowledge
+		 - Supports PWA and SPA
+		 - Very structured
 	 - Cons:
-		 - b
+		 - Very structured
  - React Front-End
 	 - Pros:
-		 - a
+		 - none
 	 - Cons:
-		 - b
+		 - No prior knowledge
  - SpringBoot Restful
 	 - Pros:
-		 - a
+		 - Prior knowledge
+		 - Eases use and creation of filters and ORMs
 	 - Cons:
-		 - b
+		 - Java
+		 - Requires relatively high amount of resources
  - PHP 
 	 - Pros:
-		 - a
+		 - Internships will add knowledge
+		 - Preprocessors allow for more light weight front end
 	 - Cons:
-		 - b
+		 - PHP
+		 - No prior knowledge
+		 - Being a preprocessor slightly conflicts with the APP ideology
 /--- Half ---/
- - Larabel
+ - Laravel
 	 - Pros:
 		 - a
 	 - Cons:
@@ -149,3 +169,5 @@
 		 - a
 	 - Cons:
 		 - b
+
+
