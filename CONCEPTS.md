@@ -1,0 +1,151 @@
+
+
+# Concepts
+
+## Brainstorming
+ - Light Front-End
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - League of Legends API
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Video Game API
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Educative App
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Tracker App
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Informative App
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Hosting an App
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - E-Shop App
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Neural Network 
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Quassar Front-End
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - React Front-End
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - SpringBoot Restful
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - PHP 
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+/--- Half ---/
+ - Larabel
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Hibernate ORM
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - JDBC Template
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - MySQL
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - MariaDB
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Material Dessign
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Bootstrap
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - JWT Login
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Google Oauth Login
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Web Sockets
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - SPA PWA
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Docker Deploy
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Netlify
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Https
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - SEO
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
+ - Lighthouse
+	 - Pros:
+		 - a
+	 - Cons:
+		 - b
