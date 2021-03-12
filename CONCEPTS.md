@@ -89,85 +89,98 @@
 		 - No prior knowledge
 		 - Being a preprocessor slightly conflicts with the APP ideology
 /--- Half ---/
- - Laravel
+  - Laravel
 	 - Pros:
-		 - a
+		 - Scalable
+		 - Progressive
+		 - Dependency Injection
+		 - Unit Testing
 	 - Cons:
-		 - b
+		 - Isn't easy to extend code and classes
+		 - Is new and doesn't has too many support
  - Hibernate ORM
 	 - Pros:
-		 - a
+		 - Creates automatically the database
+		 - Can control the relationships with annotations
+		 - Adds automatically the constraints to foreign keys
 	 - Cons:
-		 - b
+		 - Requires some configuration at startup
  - JDBC Template
 	 - Pros:
-		 - a
+		 - Doesn’t require too much configuration
 	 - Cons:
-		 - b
+		 - Creation of the database manually
+		 - Doesn't support ManyToOne relationships
  - MySQL
 	 - Pros:
-		 - a
+		 - Could be usefull with ORM implementation
+		 - Most used DB
 	 - Cons:
-		 - b
+		 - ?
  - MariaDB
 	 - Pros:
-		 - a
+		 - Could be useful with ORM implementation
+		 - Open Source
 	 - Cons:
-		 - b
- - Material Dessign
+		 - ?
+ - Material Design
 	 - Pros:
-		 - a
+		 - Flexible
+		 - Support easy implementation of animations
 	 - Cons:
-		 - b
+		 - Strong affiliated with Google(?)
  - Bootstrap
 	 - Pros:
-		 - a
+		 - Easy implementation of CSS with classes
 	 - Cons:
-		 - b
+		 - Design depends on classes from HTML
  - JWT Login
 	 - Pros:
-		 - a
+		 - Secured token for RestAPI
 	 - Cons:
-		 - b
+		 - ?
  - Google Oauth Login
 	 - Pros:
-		 - a
+		 - Everyone uses Google accounts
+		 - Not hard to implement it
 	 - Cons:
-		 - b
+		 - ?
  - Web Sockets
 	 - Pros:
-		 - a
+		 - ?
 	 - Cons:
-		 - b
+		 - ?
  - SPA PWA
 	 - Pros:
-		 - a
+		 - Updates automatically without the need of reloading the page
+		 - The client does the load(?)
 	 - Cons:
-		 - b
+		 - ?
  - Docker Deploy
 	 - Pros:
-		 - a
+		 - Management of multiple images and containers
+		 - Communication between technologies with docker volumes
 	 - Cons:
-		 - b
+		 - ?
  - Netlify
 	 - Pros:
-		 - a
+		 - Can host a github repository
+		 - Easy to implement it
 	 - Cons:
-		 - b
+		 - Domain name isn't too pretty
  - Https
 	 - Pros:
-		 - a
+		 - Secured forms
+		 - Google doesn't show the page as not safe
 	 - Cons:
-		 - b
+		 - Renew the HTTPS certificate
  - SEO
 	 - Pros:
-		 - a
+		 - Can get more clicks in the page
 	 - Cons:
-		 - b
+		 - ?
  - Lighthouse
 	 - Pros:
-		 - a
+		 - Get stats from optimization of the application
 	 - Cons:
-		 - b
-
-
+		 - ?
