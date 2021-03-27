@@ -10,6 +10,8 @@ A concise list of the projects requirements, separated between functional and no
  - Must integrate a full "school" system
  - Must have a Restful back-end
  - Front-end must be SPA/PWA
+ - The school system must be shareable and include a marketplace
+ - The users have to be able to be managed in groups with roles
 
 ## Non-Functional
 
