@@ -1,5 +1,7 @@
 # Glassbowl
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee23c0c5-bf7d-4495-aba0-62aca86d629e/deploy-status)](https://app.netlify.com/sites/glassbowl/deploys)
+
 ### What is this project
 
 Sometimes in a new company you have to open a few web pages, for example, a web for time management, another web for communication and a web for the management of tasks. This application tries to automatize that task of opening multiple pages. The idea is that a user can store a school of fishes (group of urls). If the user clicks the school assigned to their company they will open all the pages at the same time. This is useful for working on multiple companies/projects or for personal use and entertainment.  
